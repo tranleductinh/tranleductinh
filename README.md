@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tranleductinh/tranleductinh/blob/main/TranLeDucTinh_CV.pdf">
+  <a href="https://github.com/tranleductinh/tranleductinh/blob/main/TranLeDucTinh_Fullstack.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=readme&logoColor=white">
   </a>
 </p>
