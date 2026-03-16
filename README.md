@@ -1,127 +1,74 @@
 <h1 align="center">Hi 👋, I'm Tran Le Duc Tinh</h1>
-<h3 align="center">Full-stack Web Developer | JavaScript | React | Node.js</h3>
 
 <p align="center">
-  <a href="mailto:tranleductinh@gmail.com">Email</a> •
-  <a href="https://github.com/tranleductinh">GitHub</a>
+💻 Full-stack Web Developer | JavaScript | React | Node.js
+</p>
+
+<p align="center">
+  <a href="https://github.com/tranleductinh/tranleductinh/blob/main/TranLeDucTinh_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=readme&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a full-stack web developer passionate about building modern web applications with JavaScript across both frontend and backend.  
-I enjoy developing RESTful APIs, designing databases, and creating responsive user interfaces with clean, maintainable code.
+I'm a Software Engineering student passionate about building modern web applications.  
+I enjoy developing real-world products using **JavaScript technologies across both frontend and backend**.
 
-- 🎓 Software Engineering student at **Duy Tan University**
-- 📍 Based in **Da Nang, Vietnam**
-- 🌱 Currently improving my skills in **full-stack development, system design, and AI-integrated applications**
-- 🎯 Career goal: Become a professional software engineer and build real-world products with strong practical value
+Currently focusing on improving my skills in **React, Node.js, and backend system design**, while exploring how **AI can be integrated into practical web applications**.
+
+As an aspiring software engineer, I’m always eager to learn new technologies, solve challenging problems, and gain real-world development experience.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Vue.js
-- Tailwind CSS
-- Shadcn UI
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- Laravel (PHP)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### Database
-- MongoDB
-- PostgreSQL
-- MySQL
 
-### Tools & Platforms
-- Git, GitHub, GitLab
-- Postman
-- VS Code
-- DBeaver
-- XAMPP
-- Vercel
-- Firebase
-- Cloudinary
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### Tools
 
-## 📌 Featured Projects
-
-### 1. Digital Caregiver
-An AI-powered digital caregiver platform that helps families remotely support elderly care through voice interaction, medication management, and real-time monitoring.
-
-**Key highlights:**
-- Secure authentication with Firebase, Google OAuth 2.0, JWT
-- Medication CRUD and next-dose reminder logic
-- AI assistant integration with Gemini
-- Mongoose schema design for scalable data structure
-- Responsive UI with PWA support
-
-🔗 Demo: [digital-caregiver-smoky.vercel.app](https://digital-caregiver-smoky.vercel.app)
-
----
-
-### 2. AI Resume Screener
-An AI-powered resume screening platform for HR that supports authentication, CV upload/parsing, candidate ranking, and job-based screening workflows.
-
-**Key highlights:**
-- RESTful APIs with Express.js and MongoDB
-- JWT authentication, refresh token flow, Google OAuth
-- Email verification and password recovery
-- Cloudinary-based resume upload pipeline
-- AI-based candidate scoring and ranking
-- Pagination, filtering, audit logging, validation middleware
-
-🔗 Demo: [ai-resume-screener-seven.vercel.app](https://ai-resume-screener-seven.vercel.app)
-
----
-
-### 3. AI Interview Generator
-A web app that generates technical interview questions tailored to job title, tech stack, and experience level.
-
-**Key highlights:**
-- Gemini AI integration
-- Multi-step responsive interview UI
-- Interview history with local storage
-- Search and filtering features
-- Reusable UI components with React + Shadcn UI
-
-🔗 Demo: [ai-interview-generator-react.vercel.app](https://ai-interview-generator-react.vercel.app)
-
----
-
-## 🏆 Achievements
-
-- 🥈 **Second Student Project Award** – Scientific Research (05/2025)
-
----
-
-## 📫 Contact Me
-
-- **Email:** tranleductinh@gmail.com
-- **GitHub:** [github.com/tranleductinh](https://github.com/tranleductinh)
-
----
-
-## ⚡ Fun Facts
-
-- I enjoy football, singing, billiards, and gaming.
-- I like building products that combine **web development + AI**.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranleductinh&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranleductinh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranleductinh&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranleductinh&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📫 Contact
+
+📧 Email: tranleductinh@gmail.com  
+💻 GitHub: https://github.com/tranleductinh
